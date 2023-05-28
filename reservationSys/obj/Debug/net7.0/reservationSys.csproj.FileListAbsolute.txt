@@ -1,0 +1,15 @@
+/Users/anwaaralhosni/Projects/reservationSys/reservationSys/obj/Debug/net7.0/reservationSys.csproj.AssemblyReference.cache
+/Users/anwaaralhosni/Projects/reservationSys/reservationSys/obj/Debug/net7.0/reservationSys.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anwaaralhosni/Projects/reservationSys/reservationSys/obj/Debug/net7.0/reservationSys.AssemblyInfoInputs.cache
+/Users/anwaaralhosni/Projects/reservationSys/reservationSys/obj/Debug/net7.0/reservationSys.AssemblyInfo.cs
+/Users/anwaaralhosni/Projects/reservationSys/reservationSys/obj/Debug/net7.0/reservationSys.csproj.CoreCompileInputs.cache
+/Users/anwaaralhosni/Projects/reservationSys/reservationSys/bin/Debug/net7.0/reservationSys
+/Users/anwaaralhosni/Projects/reservationSys/reservationSys/bin/Debug/net7.0/reservationSys.deps.json
+/Users/anwaaralhosni/Projects/reservationSys/reservationSys/bin/Debug/net7.0/reservationSys.runtimeconfig.json
+/Users/anwaaralhosni/Projects/reservationSys/reservationSys/bin/Debug/net7.0/reservationSys.dll
+/Users/anwaaralhosni/Projects/reservationSys/reservationSys/bin/Debug/net7.0/reservationSys.pdb
+/Users/anwaaralhosni/Projects/reservationSys/reservationSys/obj/Debug/net7.0/reservationSys.dll
+/Users/anwaaralhosni/Projects/reservationSys/reservationSys/obj/Debug/net7.0/refint/reservationSys.dll
+/Users/anwaaralhosni/Projects/reservationSys/reservationSys/obj/Debug/net7.0/reservationSys.pdb
+/Users/anwaaralhosni/Projects/reservationSys/reservationSys/obj/Debug/net7.0/reservationSys.genruntimeconfig.cache
+/Users/anwaaralhosni/Projects/reservationSys/reservationSys/obj/Debug/net7.0/ref/reservationSys.dll
